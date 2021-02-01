@@ -2,7 +2,7 @@ Script para configuración de cPanel
 
 Este script instala y configura cPanel según las buenas prácticas recomendadas por WNPower
 
-Modo de uso: raw.githubusercontent.com/gdlservers/Cpanel/main/install_cpanel.sh -O ./install_cpanel.sh  && bash install_cpanel.sh
+Modo de uso: wget raw.githubusercontent.com/gdlservers/Cpanel/main/install_cpanel.sh -O ./install_cpanel.sh  && bash install_cpanel.sh
 
 NOTA: Instalar sólo en CentOS 7 Minimal
 
